@@ -1,0 +1,15 @@
+/Users/izabelamarcinkowska/Desktop/Programmering 2/BookShelf/bin/Debug/net7.0/BookShelf
+/Users/izabelamarcinkowska/Desktop/Programmering 2/BookShelf/bin/Debug/net7.0/BookShelf.deps.json
+/Users/izabelamarcinkowska/Desktop/Programmering 2/BookShelf/bin/Debug/net7.0/BookShelf.runtimeconfig.json
+/Users/izabelamarcinkowska/Desktop/Programmering 2/BookShelf/bin/Debug/net7.0/BookShelf.dll
+/Users/izabelamarcinkowska/Desktop/Programmering 2/BookShelf/bin/Debug/net7.0/BookShelf.pdb
+/Users/izabelamarcinkowska/Desktop/Programmering 2/BookShelf/obj/Debug/net7.0/BookShelf.csproj.AssemblyReference.cache
+/Users/izabelamarcinkowska/Desktop/Programmering 2/BookShelf/obj/Debug/net7.0/BookShelf.GeneratedMSBuildEditorConfig.editorconfig
+/Users/izabelamarcinkowska/Desktop/Programmering 2/BookShelf/obj/Debug/net7.0/BookShelf.AssemblyInfoInputs.cache
+/Users/izabelamarcinkowska/Desktop/Programmering 2/BookShelf/obj/Debug/net7.0/BookShelf.AssemblyInfo.cs
+/Users/izabelamarcinkowska/Desktop/Programmering 2/BookShelf/obj/Debug/net7.0/BookShelf.csproj.CoreCompileInputs.cache
+/Users/izabelamarcinkowska/Desktop/Programmering 2/BookShelf/obj/Debug/net7.0/BookShelf.dll
+/Users/izabelamarcinkowska/Desktop/Programmering 2/BookShelf/obj/Debug/net7.0/refint/BookShelf.dll
+/Users/izabelamarcinkowska/Desktop/Programmering 2/BookShelf/obj/Debug/net7.0/BookShelf.pdb
+/Users/izabelamarcinkowska/Desktop/Programmering 2/BookShelf/obj/Debug/net7.0/BookShelf.genruntimeconfig.cache
+/Users/izabelamarcinkowska/Desktop/Programmering 2/BookShelf/obj/Debug/net7.0/ref/BookShelf.dll
